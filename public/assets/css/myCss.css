@@ -1,0 +1,49 @@
+@charset "UTF-8";
+.kt-iconbox {
+    padding: 0.5rem;
+}
+
+.kt-user-card-v2 .kt-user-card-v2__details .kt-user-card-v2__name {
+    color: #000;
+    font-style: normal;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.kt-datatable.kt-datatable--default > .kt-datatable__table > .kt-datatable__body .kt-datatable__row > .kt-datatable__cell > span {
+    color: #000;
+    font-style: normal;
+    font-size: 1.2rem;
+    font-weight: 350;
+}
+
+.rnd {
+    width: 200px;
+}
+
+.kt-datatable.kt-datatable--default > .kt-datatable__table > .kt-datatable__body .kt-datatable__row > .kt-datatable__cell > span > div {
+    cursor: pointer;
+    color: #1a46da;
+}
+
+.kt-aside-menu .kt-menu__nav > .kt-menu__item > .kt-menu__submenu .kt-menu__subnav > .kt-menu__item > .kt-menu__link {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    padding: 0.85rem 1rem;
+}
+
+.select2-container[dir="rtl"] .select2-selection--single .select2-selection__rendered {
+    font-size: 15px;
+}
+
+.select2-container--default .select2-results__option {
+    font-size: 15px;
+}
+
+#role #first:first-child {
+    width: 100px !important;
+}
+
